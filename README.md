@@ -7,7 +7,7 @@
 My IELTS teaching repository! This project is a curated collection of video recordings and materials from a 4-week voluntary IELTS preparation course I conducted online. The course was designed to help learners improve their skills across all four IELTS modules: **Listening, Reading, Writing, and Speaking**.
 
 **Purpose**:  
-To make IELTS preparation accessible for learners around the world and showcase my teaching methodology to prospective academic institutions and collaborators.
+To make IELTS preparation accessible for beginner level learners around the world and showcase my teaching methodology to prospective academic institutions and collaborators.
 
 ---
 
@@ -19,7 +19,7 @@ The course was structured over four weeks, with each week dedicated to one IELTS
 
 **Roadmap:** [Click here](https://docs.google.com/document/d/1KuRUsrp1SDTLdA43-7bw3VnYlxsAxbG6rDmEQsEeuGI/edit?usp=sharing)
 
-**Beginner Friendly IELTS Lectures** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We have
+**Beginner Friendly IELTS Lectures:** This session is designed for absolute beginners, helping them kickstart their IELTS journey. We have
  covered major concepts along with the practical implementation of each module.
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
@@ -64,7 +64,7 @@ Multiple Choice Questions Tips & Practice
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
 | **01** | Yes/No/Not Given Questions Tips & Practice | [Reading Module](https://www.facebook.com/watch/?v=1074995237703321&rdid=Cpn5F7HwDf373iHQ) | [Yes/No/Not Given Practice: Richard, the Lionheart](https://ieltsliz.com/ielts-yes-no-not-given-practice/) [IELTS Liz](https://ieltsliz.com/ielts-reading-lessons-information-and-tips/)|
-| **02** | Summary Completion + Matching Paragraph Tips & Practice  | [Reading Module](https://www.facebook.com/watch/?v=1070705555144221&rdid=uooBM9DJnywahFed) | [Fermented Foods](https://ieltsliz.com/food-ielts-summary-reading-practice/) [[The Importance of Sleep](https://ieltsliz.com/ielts-reading-summary/)] [[Amundsen’s Expedition to the South Pole](https://ieltsliz.com/matching-paragraph-information-ielts-reading/)]|
+| **02** | Summary Completion + Matching Paragraph Tips & Practice  | [Reading Module](https://www.facebook.com/watch/?v=1070705555144221&rdid=uooBM9DJnywahFed) | [Fermented Foods](https://ieltsliz.com/food-ielts-summary-reading-practice/) [The Importance of Sleep](https://ieltsliz.com/ielts-reading-summary/) [Amundsen’s Expedition to the South Pole](https://ieltsliz.com/matching-paragraph-information-ielts-reading/)|
 
 ### Week 3 – Writing   
 - Covered both Task 1 and Task 2 essay writing. Focus on structure, coherence, vocabulary usage, and critical thinking development.
