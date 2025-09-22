@@ -71,8 +71,7 @@ Multiple Choice Questions Tips & Practice
 
 | Days | Topic | Video Links (Facebook) | Material/Questions |
 |------|-------|------------------------|--------------------|
-| **01** | Introduction to IELTS Writing Module
-Writing Task 1 Tips & Practice | [Writing Task 1](https://www.facebook.com/watch/?v=2175813809571078&rdid=gnsYVuZF9dTXvLo1) | [Writing Task 1 Practice Material](https://ieltsliz.com/ielts-sample-chart-for-writing-task-1/) |
+| **01** | Writing Task 1 Tips & Practice | [Writing Task 1](https://www.facebook.com/watch/?v=2175813809571078&rdid=gnsYVuZF9dTXvLo1) | [Writing Task 1 Practice Material](https://ieltsliz.com/ielts-sample-chart-for-writing-task-1/) |
 | **02** | Writing Task 1: Bar Charts, Pie Charts, Tables, Diagrams & Maps  | [Writing Module](https://www.facebook.com/watch/?v=24515979404719594&rdid=qTM8hfw5u0Uhv3uk) | [Writing Part 1 Practice](https://ieltsliz.com/ielts-writing-task-1-lessons-and-tips/#)|
 | **03** | Writing Task 1 Practice Test | [Writing Module](https://www.facebook.com/watch/?v=1772683630789976&rdid=JJeZcgVwAd94Q4oz) | [Writing Part 1 Practice 1](https://www.jumpinto.com/ielts/practice/academic/20/1/writing/1) [Writing Part 1 Practice 2](https://www.jumpinto.com/ielts/practice/academic/18/1/writing/1)|
 
